@@ -69,7 +69,7 @@ All secured endpoints require a **JWT Bearer Token**.
 ### ✅ Prerequisites
 - Java 21
 - Maven
-- (Optional) MySQL
+- MySQL
 
 ### 🛠 Build & Run
 
